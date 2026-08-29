@@ -1,0 +1,15 @@
+{
+  "name": "analia-lima-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing de Lic. Analía Lima — Psicología Integrativa",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}
